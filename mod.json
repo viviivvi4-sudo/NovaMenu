@@ -1,0 +1,26 @@
+{
+  "geode": "5.7.1",
+  "gd": {
+    "android": "2.2081"
+  },
+  "version": "v1.0.1",
+  "id": "vinz.novamenu",
+  "name": "Floating Menu Mod",
+  "developer": "Vinz",
+  "description": "Floating draggable button with Level, Player, Cosmetic, and Bot Replay tabs.",
+  "repository": "https://github.com/vinz/floating-menu-mod",
+  "issues": {
+    "info": "Report issues on GitHub",
+    "url": "https://github.com/vinz/floating-menu-mod/issues"
+  },
+  "tags": ["utility", "interface"],
+  "dependencies": {
+    "geode.node-ids": ">=v1.21.1"
+  },
+  "resources": {
+    "sprites": [
+      "resources/*.png"
+    ]
+  },
+  "settings": {}
+}
